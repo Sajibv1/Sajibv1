@@ -60,17 +60,7 @@ A comprehensive collection of matrix operations and linear algebra implementatio
 |------|--------|-------------|
 | Data Structures & Algorithms | 🔄 In Progress | Mastering DSA for efficient problem solving |
 | Linear Algebra | 🔄 In Progress | Mathematical foundations for CS & AI |
-| Machine Learning | 📖 Learning | Understanding ML algorithms and concepts |
 | LLMs & AI Systems | 📖 Exploring | Deep diving into Large Language Models |
-
----
-
-## 💡 Interests
-
-- 🧮 **Algorithm Design** - Creating efficient solutions to complex problems
-- 🧠 **Artificial Intelligence** - Understanding how machines can think and learn
-- 📐 **Mathematics** - Linear algebra, calculus, and their applications in CS
-- 🔬 **Research** - Exploring new technologies and methodologies
 
 ---
 
