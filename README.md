@@ -33,7 +33,7 @@ while(alive) {
 
 ---
 
-## 🛠️ Tech Stack
+
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,22 +45,8 @@ while(alive) {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
-
-## 📂 Featured Projects
-
-### 🔢 [Matrix & Linear Algebra Codes](https://github.com/Sajibv1/matrix-and-Linear-algebra-codes)
-A comprehensive collection of matrix operations and linear algebra implementations. Perfect for understanding mathematical computations and their programming applications.
 
 
-
-## 🎓 Learning Journey
-
-| Area | Status | Description |
-|------|--------|-------------|
-| Data Structures & Algorithms | 🔄 In Progress | Mastering DSA for efficient problem solving |
-| Linear Algebra | 🔄 In Progress | Mathematical foundations for CS & AI |
-| LLMs & AI Systems | 📖 Exploring | Deep diving into Large Language Models |
 
 ---
 
