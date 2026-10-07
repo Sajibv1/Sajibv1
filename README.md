@@ -27,7 +27,7 @@ while(alive) {
 ## 🎯 Current Focus
 
 - 🔭 **Building Core CSE Foundations** - Strengthening my understanding of fundamental CS concepts
-- 💻 ** Problem Solving** - Tackling algorithmic challenges and competitive programming
+- 💻 **Problem Solving** - Tackling algorithmic challenges and competitive programming
 - 🤖 **Exploring LLMs & AI Systems** - Diving deep into Large Language Models and AI architectures
 - 📚 **Continuous Learning** - Always eager to expand my knowledge horizons
 
