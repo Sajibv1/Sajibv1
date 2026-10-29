@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science & Engineering student** currently in my 2nd year, dedicated to building strong foundational skills in computer science. I love solving complex problems and exploring the fascinating world of technology.
+I'm a passionate **Computer Science & Engineering student** currently in my 3rd year, dedicated to building strong foundational skills in computer science. I love solving complex problems and exploring the fascinating world of technology.
 
 ```cpp
 while(alive) {
@@ -27,7 +27,6 @@ while(alive) {
 ## 🎯 Current Focus
 
 - 🔭 **Building Core CSE Foundations** - Strengthening my understanding of fundamental CS concepts
-- 💻 **Problem Solving** - Tackling algorithmic challenges and competitive programming
 - 🤖 **Exploring LLMs & AI Systems** - Diving deep into Large Language Models and AI architectures
 - 📚 **Continuous Learning** - Always eager to expand my knowledge horizons
 
